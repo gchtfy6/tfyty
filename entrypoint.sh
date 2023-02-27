@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'d76fdffc-4d32-4215-b794-a7680d2b5f2d'}
+UUID=${UUID:-'7b259e6a-c182-4cd0-918c-03cde13b0e50'}
 
 generate_config() {
   cat > config.json << EOF
